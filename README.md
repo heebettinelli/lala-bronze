@@ -20,4 +20,4 @@ This project aims to create a more interactive and personalized experience for t
 
 <h3>How to Run:</h3>
 
-Click <a href=''>this link</a> and you will be redirected to start playing.
+Click <a href='https://lala-bronze.vercel.app/'>this link</a> and you will be redirected to start playing.
