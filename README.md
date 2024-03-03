@@ -6,11 +6,9 @@ This project aims to create a more interactive and personalized experience for t
 
 <h3>Features:</h3>
 
-<li>
-  <ul>Action Buttons</ul>
-  <ul>External Links</ul>
-  <ul>Personalization</ul>
-</li>
+  - Action Buttons
+  - External Links
+  - Personalization
 
 <h3>technologies Used:</h3>
 
